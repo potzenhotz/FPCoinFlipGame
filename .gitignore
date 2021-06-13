@@ -13,3 +13,7 @@ build
 *.iws
 .idea
 .cache-main
+.bloop
+.bsp
+.metals
+.vscode
